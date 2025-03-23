@@ -27,14 +27,14 @@ This project analyzes pizza sales data using SQL to extract key business insight
 
 The dataset consists of order details, including :
 
-1.order_id: Unique ID for each order.
-2.order_date: Date of order placement.
-3.order_time: Time of order placement.
-4.pizza_name: Name of the pizza ordered.
-5.pizza_size: Size category (Small, Medium, Large, etc.).
-6.pizza_category: Type of pizza (Veg, Non-Veg, etc.).
-7.quantity: Number of pizzas ordered.
-8.total_price: Total cost of the order.
+1.order_id : Unique ID for each order.
+2.order_date : Date of order placement.
+3.order_time : Time of order placement.
+4.pizza_name : Name of the pizza ordered.
+5.pizza_size : Size category (Small, Medium, Large, etc.).
+6.pizza_category : Type of pizza (Veg, Non-Veg, etc.).
+7.quantity : Number of pizzas ordered.
+8.total_price : Total cost of the order.
 
 📚 Business Questions Answered
 
