@@ -25,7 +25,8 @@ This project analyzes pizza sales data using SQL to extract key business insight
 
 📆 Dataset Information
 
-The dataset consists of order details, including:
+The dataset consists of order details, including :
+
 1.order_id: Unique ID for each order.
 2.order_date: Date of order placement.
 3.order_time: Time of order placement.
@@ -46,9 +47,9 @@ The dataset consists of order details, including:
 
 🌐 Live Project
 
-Explore the full project here: https://github.com/sharumathi-27/Pizza_Sales_Analysis_Project
+Explore the full project here : https://github.com/sharumathi-27/Pizza_Sales_Analysis_Project
 
 👥 Connect With Me
 
-If you have any feedback or suggestions, feel free to connect with me on LinkedIn.
+If you have any feedback or suggestions, feel free to connect with me on LinkedIn : 
 https://www.linkedin.com/in/sharumathi-m-37a731331/
