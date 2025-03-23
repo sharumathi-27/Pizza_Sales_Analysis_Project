@@ -37,3 +37,11 @@ The dataset consists of order details, including:
 🔹Do weekends have more orders than weekdays?
 🔹Which month had the highest number of orders?
 🔹What are the top 5 best-selling and worst-selling pizzas?
+
+🌐 Live Project
+Explore the full project here: https://github.com/sharumathi-27/Pizza_Sales_Analysis_Project
+
+👥 Connect With Me
+
+If you have any feedback or suggestions, feel free to connect with me on LinkedIn.
+https://www.linkedin.com/in/sharumathi-m-37a731331/
