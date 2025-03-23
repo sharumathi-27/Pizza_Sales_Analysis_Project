@@ -1,9 +1,11 @@
 🍕 Pizza Sales Analysis Using SQL 
 
 📌 Project Overview
+
 This project analyzes pizza sales data using SQL to extract key business insights.  The goal is to help a pizza restaurant understand sales trends, customer preferences, and revenue distribution to make data-driven decisions.
 
 📊 Key Insights & Analysis
+
 ✔ Total Revenue & Orders 📈
 ✔ Best-Selling & Least-Selling Pizzas 🍕
 ✔ Sales Trends by Day, Hour, and Month ⏳
@@ -11,15 +13,18 @@ This project analyzes pizza sales data using SQL to extract key business insight
 ✔ Revenue Breakdown by Pizza Category & Size
 
 🛠 SQL Techniques Used
+
 🔹 Aggregate Functions (SUM, COUNT, AVG)
 🔹 Filtering & Ordering (WHERE, GROUP BY, ORDER BY)
 🔹 Subqueries
 
 📂 Files in This Repository
+
 > pizza_sales_analysis.sql → Contains all SQL queries
 > pizza_sales_analysis.csv → Contains the Dataset
 
 📆 Dataset Information
+
 The dataset consists of order details, including:
 1.order_id: Unique ID for each order.
 2.order_date: Date of order placement.
@@ -31,6 +36,7 @@ The dataset consists of order details, including:
 8.total_price: Total cost of the order.
 
 📚 Business Questions Answered
+
 🔹What is the total revenue generated from pizza sales?
 🔹Which pizza category contributes the most revenue?
 🔹What are the peak order times throughout the day?
@@ -39,6 +45,7 @@ The dataset consists of order details, including:
 🔹What are the top 5 best-selling and worst-selling pizzas?
 
 🌐 Live Project
+
 Explore the full project here: https://github.com/sharumathi-27/Pizza_Sales_Analysis_Project
 
 👥 Connect With Me
